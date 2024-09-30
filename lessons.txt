@@ -1,0 +1,38 @@
+<html>
+<head><title>ICT E-PORTFOLIO</title></head>
+<body bgcolor="#e79898" link="#000000" alink="#946656" vlink="#252525">
+
+<h1 align="center" style="background-color:#c79274; font-family:georgia;">ICT E-Portfolio</h1>
+<h2 align="center" style="background-color:#c79274; font-family:georgia;">First Quarter</h2>
+
+<hr align="center" noshade size="2px" style="border-color:#946656;">
+
+<table align="center" bgcolor="#c79274">
+<tr>
+<th><a href="portfolioo.html">Home</a></th>
+<th><a href="aboutme.html">About me!</a></th>
+<th><a href="lessons.html">First Quarter Lessons</a></th>
+<th><a href="browser.html">Browser Outputs</a></th>
+<th><a href="reflection.html">Reflection</a></th>
+</tr>
+</table>
+
+<hr align="center" noshade size="2px" style="border-color:#946656;">
+<h3 align="center">XHTML</h3>
+
+<h3> align="center">Lists</h3>
+<p>Example of coding:</p>
+<img src="listcodee.png" alt="example of codes"
+<h3> align="center">Tables</h3>
+<p>Example of coding:<br>
+
+
+<h3> align="center">Hyperlink</h3>
+
+
+<h3> align="center">Forms</h3>
+
+
+</body>
+
+</html>
