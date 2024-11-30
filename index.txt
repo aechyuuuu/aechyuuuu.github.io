@@ -24,7 +24,7 @@
 
 <table align="center">
 <tr align="center">
-<td><a href="aboutme.html"><img src="aboutme.png" alt="redirect to About Me!" width="200px"></a></td>
+<td><a href="aboutme.html"><img src="img/aboutme.png" alt="redirect to About Me!" width="200px"></a></td>
 <td><a href="lessons.html"><img src="lessons.png" alt="redirect to First Quarter Lessons" width="200px"></a></td>
 <td><a href="reflection.html"><img src="reflection.png" alt="redirect to Reflection" width="200px"></a></td>
 </tr>
